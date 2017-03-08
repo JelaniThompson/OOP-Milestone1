@@ -1,0 +1,3 @@
+// compilation safeguards
+
+// defined values
